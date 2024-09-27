@@ -1,1 +1,1 @@
-@startDate = $Date.format
+@startDate = $Date.format()
